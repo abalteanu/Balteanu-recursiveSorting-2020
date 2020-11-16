@@ -1,0 +1,827 @@
+# depslib dependency file v1.0
+1579756186 source:f:\xingr\coding\xing_ryan sorting and searching\bubble_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579756186 source:f:\xingr\coding\xing_ryan sorting and searching\main.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<algorithm>
+	<random>
+	<time.h>
+
+1579756889 f:\xingr\coding\xing_ryan sorting and searching\prototypes.h
+	"defines.h"
+	"button.h"
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579756186 source:f:\xingr\coding\xing_ryan sorting and searching\quick_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579756186 source:f:\xingr\coding\xing_ryan sorting and searching\merge_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579745135 source:f:\xingr\coding\xing_ryan sorting and searching\allegro.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579317927 f:\xingr\coding\xing_ryan sorting and searching\button.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro.h>
+
+1579756507 source:f:\xingr\coding\xing_ryan sorting and searching\draw_functions.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/color.h>
+	<allegro5/allegro_color.h>
+
+1579756476 f:\xingr\coding\xing_ryan sorting and searching\defines.h
+
+1579317952 source:f:\xingr\coding\xing_ryan sorting and searching\button.cpp
+	<iostream>
+	"button.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro.h>
+
+1579756889 source:f:\xingr\coding\xing_ryan sorting and searching\button_functions.cpp
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	"defines.h"
+	"button.h"
+	"prototypes.h"
+	<algorithm>
+	<random>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579377375 source:f:\xingr\coding\xing_ryan sorting and searching\text_editing.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<random>
+
+1579756186 source:f:\xingr\coding\xing_ryan sorting and searching\binary_search.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579757506 source:c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\allegro.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579757507 c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\button.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro.h>
+
+1579757507 source:c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\binary_search.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579757507 c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\prototypes.h
+	"defines.h"
+	"button.h"
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579757507 c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\defines.h
+
+1579757507 source:c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\bubble_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579757507 source:c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\button.cpp
+	<iostream>
+	"button.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro.h>
+
+1579757507 source:c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\button_functions.cpp
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	"defines.h"
+	"button.h"
+	"prototypes.h"
+	<algorithm>
+	<random>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579757507 source:c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\draw_functions.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/color.h>
+	<allegro5/allegro_color.h>
+
+1579757507 source:c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\main.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<algorithm>
+	<random>
+	<time.h>
+
+1579757507 source:c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\merge_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579757507 source:c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\quick_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579757507 source:c:\users\xingr\downloads\xing_ryan sorting and searching\xing_ryan sorting and searching\text_editing.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<random>
+
+1605558120 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\allegro.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605502252 c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\button.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro.h>
+
+1605560698 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\binary_search.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605561703 c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\prototypes.h
+	"defines.h"
+	"button.h"
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579757739 c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\defines.h
+
+1605558161 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\bubble_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605502252 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\button.cpp
+	<iostream>
+	"button.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro.h>
+
+1605560698 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\button_functions.cpp
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	"defines.h"
+	"button.h"
+	"prototypes.h"
+	<algorithm>
+	<random>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605561347 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\draw_functions.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/color.h>
+	<allegro5/allegro_color.h>
+
+1605561956 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\main.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<algorithm>
+	<random>
+	<time.h>
+
+1579757739 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\merge_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605558596 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\quick_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605561425 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\text_editing.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<random>
+
+1605558262 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\xing_ryan sorting and searching\xing_ryan sorting and searching\selection_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605558120 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\allegro.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605502252 c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\button.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro.h>
+
+1605561703 c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\prototypes.h
+	"defines.h"
+	"button.h"
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579757739 c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\defines.h
+
+1605560698 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\binary_search.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605558161 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\bubble_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605502252 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\button.cpp
+	<iostream>
+	"button.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro.h>
+
+1605560698 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\button_functions.cpp
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	"defines.h"
+	"button.h"
+	"prototypes.h"
+	<algorithm>
+	<random>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605561347 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\draw_functions.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/color.h>
+	<allegro5/allegro_color.h>
+
+1605561956 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\main.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<algorithm>
+	<random>
+	<time.h>
+
+1605558596 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\quick_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605558262 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\selection_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605561425 source:c:\users\valen\documents\ana coding\6-graphical-sorting-assignment-ryan-xing-master\balteanu_recursivesorting\balteanu_recursivesorting\text_editing.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<random>
+
+1605558120 source:c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\allegro.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605502252 c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\button.h
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro.h>
+
+1605565066 c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\prototypes.h
+	"defines.h"
+	"button.h"
+	<iostream>
+	<vector>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1579757739 c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\defines.h
+
+1605564683 source:c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\binary_search.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605558161 source:c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\bubble_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605502252 source:c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\button.cpp
+	<iostream>
+	"button.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/allegro.h>
+
+1605569116 source:c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\draw_functions.cpp
+	<iostream>
+	<sstream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<allegro5/color.h>
+	<allegro5/allegro_color.h>
+
+1605558596 source:c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\quick_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605563249 source:c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\selection_sort.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605561425 source:c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\text_editing.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<random>
+
+1605566494 source:c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\button_functions.cpp
+	<iostream>
+	<string>
+	<vector>
+	<math.h>
+	"defines.h"
+	"button.h"
+	"prototypes.h"
+	<algorithm>
+	<random>
+	<time.h>
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+
+1605565870 source:c:\users\valen\documents\ana coding\balteanu_recursivesortingassignment\balteanu_recursivesorting\balteanu_recursivesorting\main.cpp
+	<iostream>
+	<vector>
+	"button.h"
+	"prototypes.h"
+	"defines.h"
+	<allegro5/allegro.h>
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/allegro_image.h>
+	<allegro5/allegro_primitives.h>
+	<allegro5/allegro_native_dialog.h>
+	<algorithm>
+	<random>
+	<time.h>
+
